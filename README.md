@@ -32,7 +32,7 @@ Movielens 평점 데이터를 기반으로 MAE와 RMSE를 계산하는 실습을
 ### 2.1 PostgreSQL 설치 및 설정
 * https://www.postgresql.org/download/
 * Create DB: fcrec
-* Create User: fcuser//fcuser123
+* Create User: fcuser//xxxxxxxxx
 
 ### 2.2 Math Background
 * Vector and Matrix 표현
